@@ -7,5 +7,8 @@ Skills: REACT / JS / TS / HTML / CSS
 - 🔭 I’m currently working on pet project, this is a site for selecting a movie for an evening for a company. 
 - 📫 How to reach me: housefuf@gmail.com 
 
+###
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NataliaLeo)  
+###👩‍💻  Codewars
+
+![codewars](https://www.codewars.com/users/Natalia_leo/badges/large)
