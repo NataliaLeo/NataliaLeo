@@ -5,7 +5,7 @@
 
 Skills: REACT / JS / TS / HTML / CSS 
 
-- 🔭 I’m currently working on pet project, this is a site for selecting a movie for an evening for a company. 
+- 🔭 I’m currently working on my project work within the educational course.  
 - 📫 How to reach me: housefuf@gmail.com
 
 ##
