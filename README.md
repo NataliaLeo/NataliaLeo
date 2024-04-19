@@ -9,6 +9,6 @@ Skills: REACT / JS / TS / HTML / CSS
 
 ###
 
-###👩‍💻  Codewars
+### 👩‍💻  Codewars
 
 ![codewars](https://www.codewars.com/users/Natalia_leo/badges/large)
