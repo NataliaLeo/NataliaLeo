@@ -3,9 +3,8 @@
 
 ##
 
-Skills: REACT / JS / TS / HTML / CSS 
+Skills: REACT / JS / TS / HTML / CSS / VUE
 
-- 🔭 I’m currently working on my project work within the educational course.  
 - 📫 How to reach me: housefuf@gmail.com
 
 ##
